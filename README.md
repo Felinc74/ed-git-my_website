@@ -8,3 +8,6 @@ Sitio web para la empresa ficticia Green Bikes, dedicada al alquiler de biciclet
 
 ## Instrucciones de uso
 Para visualizar la página web, clona este repositorio en tu equipo local y abre el archivo `index.html` en cualquier navegador web.
+
+## Visualización
+Para visitar la web pincha en el enlace [text](https://felinc74.github.io/ed-git-my_website/)
