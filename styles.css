@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Times New Roman', Times, serif, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-style:italic;
+    text-decoration-color: blue ;
+    text-decoration-line: underline;
+}
+.p1{
+    text-decoration-color: green;text-decoration-line: underline;
+}
+.p2{
+    text-align: center;
+}
+
+
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
